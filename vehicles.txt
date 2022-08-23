@@ -3,3 +3,12 @@ bike
 jeep
 lorry
 train
+
+
+
+
+
+
+
+
+ready for jourey
